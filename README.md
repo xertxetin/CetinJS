@@ -27,6 +27,8 @@ CetinJS is a minimalist framework developed entirely with vanilla JavaScript. It
 - **Modular Structure:** Customizable modular structure to meet your specific needs.
 - **Comprehensive Documentation:** Extensive documentation to help users learn and use the framework more easily.
 - **Android, iOS, and Electron Bridging:** Built-in support for creating bridges and local connections for Android, iOS, and Electron applications. This allows developers to create seamless and efficient integrations with native features and functionalities across different platforms.
+- **Compression and Low Footprint:** CetinJS is optimized for low file sizes and efficient performance, ensuring your applications load quickly and run smoothly.
+- **Packaging and Testing Environment:** CetinJS provides robust packaging and testing tools to help developers ensure their applications are production-ready and perform well across different environments.
 
 ## Platform
 CetinJS supports multiple platforms to ensure your applications run smoothly across different environments. Below are the supported platforms and their descriptions:
