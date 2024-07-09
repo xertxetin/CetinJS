@@ -73,7 +73,7 @@ CetinJS is currently in development and not yet available for production use. Pl
 
 #### Latest Release
 ![Version 1.0.0](https://img.shields.io/badge/version-1.0.0-blue.svg)
-For more information and to see all available versions, visit the [(https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/xertxetin/CetinJS/releases).
+For more information and to see all available versions, visit the [https://img.shields.io/badge/version-1.0.0-blue.svg](https://github.com/xertxetin/CetinJS/releases).
 
 
 ## Getting Started
