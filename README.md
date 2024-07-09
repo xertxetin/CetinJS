@@ -1,6 +1,6 @@
 # CetinJS: A Minimalist and Fast JavaScript Framework
 
-![CetinJS Logo](ttps://github.com/xertxetin/CetinJS/raw/main/logo.png)
+![CetinJS Logo](https://raw.githubusercontent.com/xertxetin/CetinJS/main/docs/media/logo.png)
 
 CetinJS is a minimalist framework developed entirely with vanilla JavaScript. It contains no unnecessary commands, only efficient and essential ones. By maximizing performance and reliability, it allows users to develop faster and more efficient applications.
 
@@ -24,7 +24,7 @@ CetinJS is a minimalist framework developed entirely with vanilla JavaScript. It
 - **Comprehensive Documentation:** Extensive documentation to help users learn and use the framework more easily.
 
 <!--![CetinJS Screenshot](https://github.com/xertxetin/CetinJS/raw/screenshot.png)-->
-[Download Video](https://github.com/xertxetin/CetinJS/raw/main/cetinjs-virtual-scroll.mkv)
+[Download Video](https://github.com/xertxetin/CetinJS/raw/main/cetinjs-virtual-scroll.mp4)
 
 
 ## Installation
