@@ -67,6 +67,6 @@ If you find a bug or have a feature request, please open an issue on the [GitHub
 
 ### Contact
 
-For any questions or further information, please contact [info@cetinjs.com](mailto:info@cetinjs.com).
+For any questions or further information, please contact [info@meforcetechnology.com.](mailto:info@meforcetechnology.com.).
 
 Thank you for contributing to CetinJS!
