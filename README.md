@@ -94,7 +94,7 @@ npm run build
 ```
 This command will compile the project.
 
-4. **Test Production Version:**
+4. **Test Production Build Version:**
 ```bash
 npm run web
 ```
