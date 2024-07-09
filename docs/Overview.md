@@ -34,13 +34,6 @@ CetinJS is currently in development and not yet available for production use. Pl
 #### Latest Release
 For more information and to see all available versions, visit the <a href="https://github.com/xertxetin/CetinJS/releases"><img src="https://img.shields.io/badge/version-1.0.0-blue.svg"></a>
 
-#### Previous Versions
-- Version 0.9.0 ![Version 0.9.0](https://img.shields.io/badge/version-0.9.0-lightgrey.svg)
-- Version 0.8.0 ![Version 0.8.0](https://img.shields.io/badge/version-0.8.0-lightgrey.svg)
-
-For more information and to see all available versions, visit the [releases page](https://github.com/xertxetin/CetinJS/releases).
-
-
 ## Getting Started
 Here's a quick example to get you started with CetinJS. After downloading the blank starter project, follow these steps:
 
