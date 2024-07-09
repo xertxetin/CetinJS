@@ -111,8 +111,8 @@ With these steps, you can download the blank project template, install dependenc
 
 # Documentation
 
-The documentation for CetinJS is currently under development. Please check back soon for more detailed information.
-Visit our [Documentation](https://xertxetin.gitbook.io/cetinjs)
+The documentation for CetinJS is currently under development. 
+Please check back soon for more detailed information. Visit our [Documentation](xertxetin.github.io/CetinJS/)
 
 # Roadmap
 
