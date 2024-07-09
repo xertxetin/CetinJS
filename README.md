@@ -55,33 +55,33 @@ For more information and to see all available versions, visit the [releases page
 Here's a quick example to get you started with CetinJS. After downloading the blank starter project, follow these steps:
 
 1. **Install Dependencies:**
-    ```bash
-    npm install
-    ```
+```bash
+npm install
+```
 
 2. **Start in Developer Mode:**
-    ```bash
-    npm start
-    ```
-    This command will start the project in developer mode for testing.
+```bash
+npm start
+```
+This command will start the project in developer mode for testing.
 
 3. **Build the Project:**
-    ```bash
-    npm run build
-    ```
-    This command will compile the project.
+```bash
+npm run build
+```
+This command will compile the project.
 
 4. **Test Production Version:**
-    ```bash
-    npm run web
-    ```
-    This command will test the production version of the project.
+```bash
+npm run web
+```
+This command will test the production version of the project.
 
 5. **Start Android Studio Project:**
-    ```bash
-    npm run android
-    ```
-    This command will start the project in Android Studio.
+```bash
+npm run android
+```
+This command will start the project in Android Studio.
 
 With these steps, you can download the blank project template, install dependencies, and start developing with CetinJS.
 

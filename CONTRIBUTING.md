@@ -5,19 +5,19 @@ We welcome contributions to CetinJS! Whether you're fixing a bug, adding a new f
 ### How to Contribute
 
 1. **Fork the Repository:**
-   - Fork the [CetinJS repository](https://github.com/xertxetin/CetinJS) to your own GitHub account.
+- Fork the [CetinJS repository](https://github.com/xertxetin/CetinJS) to your own GitHub account.
 
 2. **Clone Your Fork:**
-   - Clone your forked repository to your local machine.
-   ```bash
-   git clone https://github.com/your-username/CetinJS.git
+- Clone your forked repository to your local machine.
+```bash
+git clone https://github.com/your-username/CetinJS.git
 ```
 
 ### Create a New Branch:
 
 - Create a new branch for your changes.
-  ```bash
-  git checkout -b feature-or-bugfix-description
+```bash
+git checkout -b feature-or-bugfix-description
 ```
 
 ### Make Your Changes:
@@ -27,16 +27,16 @@ We welcome contributions to CetinJS! Whether you're fixing a bug, adding a new f
 ### Commit Your Changes:
 
 - Commit your changes with a clear and concise commit message.
-  ```bash
-  git add .
-  git commit -m "Description of your changes"
-
+```bash
+git add .
+git commit -m "Description of your changes"
+```
 
 ### Push Your Changes:
 
 - Push your changes to your forked repository.
-  ```bash
-  git push origin feature-or-bugfix-description
+```bash
+git push origin feature-or-bugfix-description
 ```
 
 ### Create a Pull Request:
@@ -46,20 +46,20 @@ We welcome contributions to CetinJS! Whether you're fixing a bug, adding a new f
 ### Guidelines for Contributions
 
 - **Code Style:**
-  - Follow the existing code style and conventions.
-  - Ensure your code is clean and well-documented.
+- Follow the existing code style and conventions.
+- Ensure your code is clean and well-documented.
 
 - **Testing:**
-  - If your changes affect the functionality of the project, please add appropriate tests.
-  - Run all existing tests to make sure they pass.
+- If your changes affect the functionality of the project, please add appropriate tests.
+- Run all existing tests to make sure they pass.
 
 - **Documentation:**
-  - Update the documentation to reflect your changes.
-  - Ensure all public methods and classes have clear and concise documentation.
+- Update the documentation to reflect your changes.
+- Ensure all public methods and classes have clear and concise documentation.
 
 - **Communication:**
-  - Be respectful and considerate in your communication.
-  - Provide as much context as possible when discussing issues or proposing changes.
+- Be respectful and considerate in your communication.
+- Provide as much context as possible when discussing issues or proposing changes.
 
 ### Reporting Issues
 
