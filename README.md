@@ -16,6 +16,7 @@ CetinJS is a minimalist framework developed entirely with vanilla JavaScript. It
 - [Roadmap](#roadmap)
 - [Contributing](#contributing)
 - [License](#license)
+- [Reporting Issues](#reporting-issues)
 - [Contact](#contact)
 
 ## Features
