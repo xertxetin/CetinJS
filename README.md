@@ -145,3 +145,12 @@ If you find a bug or have a feature request, please open an issue on the [GitHub
 # Contact
 
 For more information, visit our [website](https://www.meforcetechnology.com) or contact us at info@meforcetechnology.com.
+
+## Support Us
+
+If you find CetinJS useful and would like to support its development, consider buying us a coffee. Your support helps us continue to improve and maintain this project.
+
+<p align="center">
+<a href="https://www.buymeacoffee.com/xertxetin" style="text-decoration:none;"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=xertxetin&button_colour=BD5FFF&font_colour=ffffff&font_family=Comic&outline_colour=000000&coffee_colour=FFDD00" /></a>
+</p>
+
