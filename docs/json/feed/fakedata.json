@@ -1,4 +1,4 @@
-const feeddata = [
+[
 { 
 id: 0, 
 icon: '',
@@ -3225,4 +3225,3 @@ video: '',
 avatar: 'https://picsum.photos/32',
 virtualtype: 'feed-box'
 }
-];
