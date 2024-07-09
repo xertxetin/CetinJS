@@ -75,10 +75,65 @@ This command will start the project in Android Studio.
 
 With these steps, you can download the blank project template, install dependencies, and start developing with CetinJS.
 
+### Architecture
 
-## Contribution
-We welcome contributions to CetinJS! If you'd like to contribute, please check out our [contribution guidelines](contributing.md).
+CetinJS is built with TypeScript and Node.js, ensuring type safety and modern JavaScript features. The framework is modular and highly customizable, making it suitable for various types of projects.
 
-## Contact
-For questions or support, contact us at [info@cetinjs.com](mailto:info@cetinjs.com).
+#### Core Components
+- **Core Module:** Contains the essential functionality and utilities needed for the framework to function.
+- **UI Components:** A set of pre-built components to speed up development.
+- **API Integration:** Tools for seamless integration with external APIs.
+- **State Management:** Efficient state handling for dynamic applications.
+
+#### Development Environment
+- **Node.js:** Supports Node 10.3+, but the latest Node LTS is always recommended. Follow development on the open-source [GitHub repository](https://github.com/xertxetin/CetinJS).
+- **TypeScript:** Utilized for type safety and modern JavaScript features.
+
+#### Best Practices
+- **Modular Design:** Encourage splitting your code into modules for better maintainability.
+- **Consistent Naming Conventions:** Follow consistent naming conventions to improve code readability.
+- **Code Reviews:** Regular code reviews to maintain code quality and share knowledge.
+
+### Troubleshooting
+
+#### Common Issues
+1. **Node Version**
+- Make sure the latest Node LTS is installed. See Node & npm environment setup [here](https://nodejs.org/en/download/).
+- Verify your Node version with:
+```bash
+node -v
+```
+
+2. **NPM Permissions**
+- If you encounter permission issues with npm, consider using a Node version manager like [nvm](https://github.com/nvm-sh/nvm).
+- Install nvm and then install Node:
+```bash
+nvm install --lts
+nvm use --lts
+```
+
+3. **Module Not Found**
+- Ensure all dependencies are installed:
+```bash
+npm install
+```
+
+4. **Environment Variables**
+- Check if all required environment variables are set correctly. Refer to the `.env.example` file in the project root.
+
+5. **Build Errors**
+- If you encounter build errors, clean the npm cache and rebuild:
+```bash
+npm cache clean --force
+npm run build
+```
+
+6. **Outdated Packages**
+- Regularly check and update outdated packages:
+```bash
+npm outdated
+npm update
+```
+
+For further assistance, please refer to our [GitHub issues page](https://github.com/xertxetin/CetinJS/issues) or contact us at [info@cetinjs.com](mailto:info@meforcetechnology.com).
 
