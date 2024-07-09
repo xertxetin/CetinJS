@@ -27,8 +27,7 @@ CetinJS is a minimalist framework developed entirely with vanilla JavaScript. It
 - **Comprehensive Documentation:** Extensive documentation to help users learn and use the framework more easily.
 
 <!--![CetinJS Screenshot](https://github.com/xertxetin/CetinJS/raw/screenshot.png)-->
-[Download Video](https://github.com/xertxetin/CetinJS/raw/main/cetinjs-virtual-scroll.mp4)
-
+https://github.com/xertxetin/CetinJS/assets/122017752/2fc4560c-be92-4963-b712-958f3ae2e76f
 
 ## Installation
 To start using CetinJS, you can install it via git:
