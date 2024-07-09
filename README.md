@@ -151,6 +151,10 @@ For more information, visit our [website](https://www.meforcetechnology.com) or 
 
 If you find CetinJS useful and would like to support its development, consider buying us a coffee. Your support helps us continue to improve and maintain this project.
 
+### About the Creator
+
+CetinJS is the brainchild of [Mert Çetin](https://www.meforcetechnology.com/mert-cetin), the sole creator and developer behind this project. Mert has dedicated countless hours to building and refining CetinJS to provide a powerful and efficient framework for developers. Your support goes a long way in helping Mert continue his work on this and other innovative projects.
+
 <p align="center">
 <a href="https://www.buymeacoffee.com/xertxetin" style="text-decoration:none;"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=xertxetin&button_colour=BD5FFF&font_colour=ffffff&font_family=Comic&outline_colour=000000&coffee_colour=FFDD00" /></a>
 </p>
