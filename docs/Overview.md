@@ -28,7 +28,7 @@ To start using CetinJS, you can install it via git:
 https://github.com/xertxetin/CetinJS/releases/download/v1.0.0/CetinJS-Blank-Starter-1.0.0.zip
 ```
 
-### Version Information
+## Version Information
 CetinJS is currently in development and not yet available for production use. Please check back for updates and new releases.
 
 #### Latest Release
@@ -68,7 +68,7 @@ This command will start the project in Android Studio.
 
 With these steps, you can download the blank project template, install dependencies, and start developing with CetinJS.
 
-### Architecture
+## Architecture
 
 CetinJS is built with TypeScript and Node.js, ensuring type safety and modern JavaScript features. The framework is modular and highly customizable, making it suitable for various types of projects.
 
@@ -87,7 +87,7 @@ CetinJS is built with TypeScript and Node.js, ensuring type safety and modern Ja
 - **Consistent Naming Conventions:** Follow consistent naming conventions to improve code readability.
 - **Code Reviews:** Regular code reviews to maintain code quality and share knowledge.
 
-### Troubleshooting
+## Troubleshooting
 
 #### Common Issues
 1. **Node Version**
