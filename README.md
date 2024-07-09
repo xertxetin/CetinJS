@@ -120,7 +120,7 @@ CetinJS is an open-source project and we welcome contributions. If you'd like to
 
 This project is licensed under the MIT. See the [LICENSE](LICENSE.md) file for details.
 
-### Reporting Issues
+# Reporting Issues
 
 If you find a bug or have a feature request, please open an issue on the [GitHub issues page](https://github.com/xertxetin/CetinJS/issues). Provide as much detail as possible to help us understand and reproduce the issue.
 
