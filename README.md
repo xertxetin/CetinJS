@@ -36,6 +36,7 @@ CetinJS is a minimalist framework developed entirely with vanilla JavaScript. It
 - [License](#license)
 - [Reporting Issues](#reporting-issues)
 - [Contact](#contact)
+- [Support Us](#support-us)
 
 ## Features
 - **Minimalist Design:** CetinJS is designed with performance and reliability in mind. Every new command is thoroughly tested and approved before being added to the framework.
@@ -146,7 +147,7 @@ If you find a bug or have a feature request, please open an issue on the [GitHub
 
 For more information, visit our [website](https://www.meforcetechnology.com) or contact us at info@meforcetechnology.com.
 
-## Support Us
+# Support Us
 
 If you find CetinJS useful and would like to support its development, consider buying us a coffee. Your support helps us continue to improve and maintain this project.
 
