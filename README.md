@@ -72,9 +72,7 @@ https://github.com/xertxetin/CetinJS/releases/download/v1.0.0/CetinJS-Blank-Star
 CetinJS is currently in development and not yet available for production use. Please check back for updates and new releases.
 
 #### Latest Release
-![Version 1.0.0](https://github.com/xertxetin/CetinJS/releases)
-For more information and to see all available versions, visit the [https://img.shields.io/badge/version-1.0.0-blue.svg](https://github.com/xertxetin/CetinJS/releases).
-
+For more information and to see all available versions, visit the <a href="https://github.com/xertxetin/CetinJS/releases"><img src="https://img.shields.io/badge/version-1.0.0-blue.svg"></a>
 
 ## Getting Started
 Here's a quick example to get you started with CetinJS. After downloading the blank starter project, follow these steps:
