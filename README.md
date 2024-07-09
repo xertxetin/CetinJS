@@ -32,7 +32,7 @@ CetinJS is a minimalist framework developed entirely with vanilla JavaScript. It
 CetinJS supports multiple platforms to ensure your applications run smoothly across different environments. Below are the supported platforms and their descriptions:
 
 - [x] **Browser HTML:** CetinJS can be seamlessly integrated into any web application running in modern browsers. This allows for building responsive and dynamic web applications with ease.
-- [ ] **Webview Android:** CetinJS offers support for Android WebView, enabling developers to create hybrid mobile applications that leverage web technologies.
+- [x] **Webview Android:** CetinJS offers support for Android WebView, enabling developers to create hybrid mobile applications that leverage web technologies.
 - [ ] **Webview iOS:** With support for iOS WebView, CetinJS allows developers to build hybrid iOS applications using the same codebase as their web applications.
 - [ ] **Webview Electron:** CetinJS can be used to create cross-platform desktop applications with Electron, providing a native-like experience using web technologies.
 
@@ -103,9 +103,9 @@ The documentation for CetinJS is currently under development. Please check back 
 # Roadmap
 
 We have exciting plans for the future of CetinJS. Here are some of the features and improvements we are working on:
-- [ ] **Component System:** A flexible and efficient system for creating and managing components.
-- [ ] **State Management:** Built-in state management to simplify application logic.
-- [ ] **Routing:** A lightweight and powerful routing solution.
+- [x] **Component System:** A flexible and efficient system for creating and managing components.
+- [x] **State Management:** Built-in state management to simplify application logic.
+- [x] **Routing:** A lightweight and powerful routing solution.
 - [ ] **Plugin Support:** Easy integration of plugins to extend functionality.
 - [ ] **Comprehensive Examples:** A variety of examples to help you get started quickly.
 
