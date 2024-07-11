@@ -1,0 +1,518 @@
+[
+{ 
+"id": 0, 
+"icon": "",
+"title": "Sanal Kaydırma", 
+"titlelong": "En hızlı ve en rahat çalışan bir sistemdir.",
+"button": [{"id":"scroll1Change", "text": "Test Alert", "classname": "dark textBold"},{"id":"scroll2Change", "text": "Test Modal", "classname": "blue textBold"}],
+"virtualtype": "alert-box"
+},
+{
+"id": 1, 
+"username": "JamesHilto", 
+"date": "2023-06-19T12:30:45.678Z", 
+"text": "Güzellik içeridedir. Hayatın güzellikleri küçük anlamlarda gizlidir.", 
+"image": [{"url": "https://picsum.photos/230/400"},{"url": "https://picsum.photos/420/300"},{"url": "https://picsum.photos/230/300"}],
+"video": "",
+"avatar": "https://picsum.photos/30"
+,"virtualtype": "feed-box"
+},
+{
+"id": 2, 
+"username": "JaneSmith", 
+"date": "2023-06-20T03:15:20.123Z", 
+"text": "Hayatta olumlu olmak, hayatı olumluya çevirir.",
+"image": [],
+"video": "",
+"avatar": "https://picsum.photos/31"
+,"virtualtype": "feed-box"
+},
+{
+"id": 3, 
+"username": "MichaelJordan", 
+"date": "2023-06-21T18:42:10.555Z", 
+"text": "",
+"image": [],
+"video": "",
+"avatar": "https://picsum.photos/32"
+,"virtualtype": "feed-box"
+},
+{
+"id": 4, 
+"username": "EmilyJones", 
+"date": "2023-06-22T09:05:35.789Z", 
+"text": "Basit şeylerin tadını çıkarın, çünkü onlar aslında büyük anlamlar taşır.",
+"image": [],
+"video": "https://www.w3schools.com/tags/movie.mp4",
+"avatar": "https://picsum.photos/33"
+,"virtualtype": "feed-box"
+},
+{
+"id": 5, 
+"username": "ChrisHemsworth", 
+"date": "2023-06-23T15:55:12.345Z", 
+"text": "Hayat, şu anda sahip olduklarınızla güzeldir. Şükretmek, huzurun anahtarıdır.",
+"image": [{"url": "https://picsum.photos/420/400"},{"url": "https://picsum.photos/400/510"}],
+"video": "",
+"avatar": "https://picsum.photos/34"
+,"virtualtype": "feed-box"
+},
+{
+"id": 6, 
+"username": "EmmaWatson", 
+"date": "2023-06-24T21:20:17.932Z", 
+"text": "Güzel olmak, kalbin güzelliğinden kaynaklanır. İyi kalpli olmak her zaman önemlidir.",
+"image": [],
+"video": "",
+"avatar": "https://picsum.photos/35"
+,"virtualtype": "feed-box"
+},
+{ 
+"id": 0, 
+"icon": "",
+"title": "Esnek Kullanım", 
+"titlelong": "Yükseklik Derdi Yok Rahat Tasarım.",
+"button": [],
+"virtualtype": "alert-box"
+},
+{
+"id": 7, 
+"username": "TomHanks", 
+"date": "2023-06-25T06:12:56.211Z", 
+"text": "Yaptığınız işi sevin ve sevgiyle yapın. Başarı, sevgi ve tutkuyla elde edilir.",
+"image": [],
+"video": "",
+"avatar": "https://picsum.photos/36"
+,"virtualtype": "feed-box"
+},
+{
+"id": 8, 
+"username": "NataliePortman", 
+"date": "2023-06-26T11:45:32.987Z", 
+"text": "Küçük şeylere değer verin, çünkü onlar büyük mutluluklar getirebilir.",
+"image": [],
+"video": "",
+"avatar": "https://picsum.photos/37"
+,"virtualtype": "feed-box"
+},
+{
+"id": 9, 
+"username": "LeonardoDiCaprio", 
+"date": "2023-06-27T17:33:44.567Z", 
+"text": "Doğaya saygı gösterin, çünkü doğa bizim en değerli varlığımızdır.",
+"image": [],
+"video": "https://www.w3schools.com/html/mov_bbb.mp4",
+"avatar": "https://picsum.photos/38"
+,"virtualtype": "feed-box"
+},
+{
+"id": 10, 
+"username": "AliciaKeys", 
+"date": "2023-06-28T08:20:21.876Z", 
+"text": "Müzikle ruhunuzu besleyin. Müzik, duygularımızı ifade etmenin harika bir yoludur.",
+"image": [{"url": "https://picsum.photos/220/200"},{"url": "https://picsum.photos/300/330"}],
+"video": "",
+"avatar": "https://picsum.photos/39"
+,"virtualtype": "feed-box"
+},
+{
+"id": 11, 
+"username": "MatthewMcConaughey", 
+"date": "2023-07-05T14:10:37.542Z", 
+"text": "Zaman geçerken hayatın tadını çıkarın. Her anın kıymetini bilin.", 
+"image": [],
+"video": "",
+"avatar": "https://picsum.photos/30"
+,"virtualtype": "feed-box"
+},
+{
+"id": 12, 
+"username": "ScarlettJohansson", 
+"date": "2023-07-06T19:25:44.789Z", 
+"text": "Güçlü olun, çünkü zorluklar sizi güçlendirir. Her zorluk bir fırsattır.",
+"image": [{"url": "https://picsum.photos/210/400"},{"url": "https://picsum.photos/300/210"}],
+"video": "",
+"avatar": "https://picsum.photos/31"
+,"virtualtype": "feed-box"
+},
+{
+"id": 13, 
+"username": "WillSmith", 
+"date": "2023-07-07T09:40:12.356Z", 
+"text": "Başarı, elde ettiğiniz değerlere ve etkilediğiniz insanlara dayanır.",
+"image": [],
+"video": "",
+"avatar": "https://picsum.photos/32"
+,"virtualtype": "feed-box"
+},
+{
+"id": 14, 
+"username": "EllenDeGeneres", 
+"date": "2023-07-08T16:55:30.123Z", 
+"text": "Gülümseme, dünyanın en güzel aksesuarıdır. İnsanları gülümsetin.",
+"image": [],
+"video": "",
+"avatar": "https://picsum.photos/33"
+,"virtualtype": "feed-box"
+},
+{
+"id": 15, 
+"username": "KeanuReeves", 
+"date": "2023-07-09T22:30:18.987Z", 
+"text": "İyi bir insan olmak, dünyayı daha iyi bir yer haline getirir.",
+"image": [],
+"video": "",
+"avatar": "https://picsum.photos/34"
+,"virtualtype": "feed-box"
+},
+{
+"id": 16, 
+"username": "JenniferAniston", 
+"date": "2023-07-10T11:15:47.654Z", 
+"text": "Sevdiklerinize zaman ayırın. Hayat, güzel anılarla dolu olmalıdır.",
+"image": [],
+"video": "",
+"avatar": "https://picsum.photos/35"
+,"virtualtype": "feed-box"
+},
+{
+"id": 17, 
+"username": "RobertDowneyJr", 
+"date": "2023-07-11T04:20:55.987Z", 
+"text": "Her gün bir adım atın. Başarı, küçük adımların birleşiminden gelir.",
+"image": [],
+"video": "",
+"avatar": "https://picsum.photos/36"
+,"virtualtype": "feed-box"
+},
+{
+"id": 18, 
+"username": "Zendaya", 
+"date": "2023-07-12T14:45:33.222Z", 
+"text": "Hayalinizdeki kişi olun. Kendinizi keşfedin ve sevin.",
+"image": [],
+"video": "",
+"avatar": "https://picsum.photos/37"
+,"virtualtype": "feed-box"
+},
+{
+"id": 19, 
+"username": "ChrisEvans", 
+"date": "2023-07-13T20:05:41.555Z", 
+"text": "Her gün bir şeyler öğrenin. Bilgi, güçtür.",
+"image": [],
+"video": "",
+"avatar": "https://picsum.photos/38"
+,"virtualtype": "feed-box"
+},
+{
+"id": 20, 
+"username": "GalGadot", 
+"date": "2023-07-14T09:55:18.789Z", 
+"text": "Dünya, iyilik ve sevgiyle daha güzel bir yer olabilir.",
+"image": [],
+"video": "",
+"avatar": "https://picsum.photos/39"
+,"virtualtype": "feed-box"
+},
+{
+"id": 21, 
+"username": "SamuelLJackson", 
+"date": "2023-07-15T15:10:37.542Z", 
+"text": "Hayatın zorluklarına meydan okuyun. Zorluklar, başarıya giden yolda birer fırsattır.", 
+"image": [{"url": "https://picsum.photos/210/250"},{"url": "https://picsum.photos/340/320"}],
+"video": "",
+"avatar": "https://picsum.photos/30"
+,"virtualtype": "feed-box"
+},
+{
+"id": 22, 
+"username": "CharlizeTheron", 
+"date": "2023-07-16T20:25:44.789Z", 
+"text": "Hayatınızın kontrolünü elinizde tutun. Siz kendi kaptanınızdır.",
+"image": [],
+"video": "",
+"avatar": "https://picsum.photos/31"
+,"virtualtype": "feed-box"
+},
+{
+"id": 23, 
+"username": "DenzelWashington", 
+"date": "2023-07-17T09:40:12.356Z", 
+"text": "Daima adaletli olun. Adalet, toplumun temel direğidir.",
+"image": [],
+"video": "",
+"avatar": "https://picsum.photos/32"
+,"virtualtype": "feed-box"
+},
+{
+"id": 24, 
+"username": "NicoleKidman", 
+"date": "2023-07-18T16:55:30.123Z", 
+"text": "İlham alın ve başkalarına ilham verin. Değişimi başlatan küçük bir adım atın.",
+"image": [],
+"video": "",
+"avatar": "https://picsum.photos/33"
+,"virtualtype": "feed-box"
+},
+{
+"id": 25, 
+"username": "TomCruise", 
+"date": "2023-07-19T22:30:18.987Z", 
+"text": "Her gün küçük bir gelişme kaydedin. Sürekli ilerleme, büyük başarıya yol açar.",
+"image": [],
+"video": "",
+"avatar": "https://picsum.photos/34"
+,"virtualtype": "feed-box"
+},
+{
+"id": 26, 
+"username": "AnneHathaway", 
+"date": "2023-07-20T11:15:47.654Z", 
+"text": "Doğa ile bağlantı kurun. Doğa, ruhunuzu yeniler ve enerji verir.",
+"image": [],
+"video": "",
+"avatar": "https://picsum.photos/35"
+,"virtualtype": "feed-box"
+},
+{
+"id": 27, 
+"username": "HughJackman", 
+"date": "2023-07-21T04:20:55.987Z", 
+"text": "Başkalarına yardım edin. İyilik yapmak, toplumunuzu güzelleştirir.",
+"image": [],
+"video": "",
+"avatar": "https://picsum.photos/36"
+,"virtualtype": "feed-box"
+},
+{
+"id": 28, 
+"username": "CateBlanchett", 
+"date": "2023-07-22T14:45:33.222Z", 
+"text": "Güçlü olun, ancak nazik kalın. Güçlü olmak, nazik olmanızı engellemez.",
+"image": [],
+"video": "",
+"avatar": "https://picsum.photos/37"
+,"virtualtype": "feed-box"
+},
+{
+"id": 29, 
+"username": "EddieRedmayne", 
+"date": "2023-07-23T20:05:41.555Z", 
+"text": "Kendinizi keşfedin ve kendiniz olun. Gerçek güzellik, gerçek kişiliktedir.",
+"image": [],
+"video": "",
+"avatar": "https://picsum.photos/38"
+,"virtualtype": "feed-box"
+},
+{
+"id": 30, 
+"username": "JuliaRoberts", 
+"date": "2023-07-24T09:55:18.789Z", 
+"text": "Her gün gülümseyin. Gülümseme, ruhunuzu ve çevrenizi aydınlatır.",
+"image": [],
+"video": "",
+"avatar": "https://picsum.photos/39"
+,"virtualtype": "feed-box"
+},
+{
+"id": 31, 
+"username": "MilaKunis", 
+"date": "2023-07-25T15:10:37.542Z", 
+"text": "Hayal etmek, başarının ilk adımıdır. Büyük hayaller kurun ve onlara ulaşın.", 
+"image": [],
+"video": "",
+"avatar": "https://picsum.photos/31"
+,"virtualtype": "feed-box"
+},
+{
+"id": 32, 
+"username": "BradPitt", 
+"date": "2023-07-26T20:25:44.789Z", 
+"text": "Geçmişe takılı kalmayın. Geleceğe odaklanın ve yeni başlangıçlar yapın.",
+"image": [],
+"video": "",
+"avatar": "https://picsum.photos/32"
+,"virtualtype": "feed-box"
+},
+{
+"id": 33, 
+"username": "JenniferLawrence", 
+"date": "2023-07-27T09:40:12.356Z", 
+"text": "Bir şeyi gerçekten istiyorsanız, onun için çalışın. Azim, başarının anahtarıdır.",
+"image": [],
+"video": "",
+"avatar": "https://picsum.photos/33"
+,"virtualtype": "feed-box"
+},
+{
+"id": 34, 
+"username": "RyanGosling", 
+"date": "2023-07-28T16:55:30.123Z", 
+"text": "Hayat kısa, kucaklayın. Sevdiklerinize ve tutkularınıza zaman ayırın.",
+"image": [],
+"video": "",
+"avatar": "https://picsum.photos/34"
+,"virtualtype": "feed-box"
+},
+{
+"id": 35, 
+"username": "Adele", 
+"date": "2023-07-29T22:30:18.987Z", 
+"text": "Mücadeleler sizi güçlendirir. Hayatın zorluklarına göğüs germek, karakterinizi inşa eder.",
+"image": [],
+"video": "",
+"avatar": "https://picsum.photos/35"
+,"virtualtype": "feed-box"
+},
+{
+"id": 36, 
+"username": "MarkWahlberg", 
+"date": "2023-07-30T11:15:47.654Z", 
+"text": "Her gün bir şey öğrenin. Bilgi, sürekli gelişimin anahtarıdır.",
+"image": [],
+"video": "",
+"avatar": "https://picsum.photos/36"
+,"virtualtype": "feed-box"
+},
+{
+"id": 37, 
+"username": "EmmaStone", 
+"date": "2023-07-31T04:20:55.987Z", 
+"text": "Küçük zaferleri kutlayın. Her başarı, bir adım daha ileri gitmenizi simgeler.",
+"image": [],
+"video": "",
+"avatar": "https://picsum.photos/37"
+,"virtualtype": "feed-box"
+},
+{
+"id": 38, 
+"username": "ChrisPratt", 
+"date": "2023-08-01T14:45:33.222Z", 
+"text": "Doğaya saygılı olun. Doğa, yaşam kaynağımızdır ve korunmalıdır.",
+"image": [],
+"video": "",
+"avatar": "https://picsum.photos/38"
+,"virtualtype": "feed-box"
+},
+{
+"id": 39, 
+"username": "HalleBerry", 
+"date": "2023-08-02T20:05:41.555Z", 
+"text": "Kendinizi ifade edin. Düşüncelerinizi ve duygularınızı paylaşın.",
+"image": [],
+"video": "",
+"avatar": "https://picsum.photos/39"
+,"virtualtype": "feed-box"
+},
+{
+"id": 40, 
+"username": "ZacEfron", 
+"date": "2023-08-03T09:55:18.789Z", 
+"text": "Eğlenceli olun. Hayatın tadını çıkarın ve gülümsemeyi unutmayın.",
+"image": [],
+"video": "",
+"avatar": "https://picsum.photos/40"
+,"virtualtype": "feed-box"
+},
+{
+"id": 41, 
+"username": "JessicaAlba", 
+"date": "2023-08-04T15:10:37.542Z", 
+"text": "Küçük mutlulukları takdir edin. Hayat, küçük anlamlarla doludur.", 
+"image": [{"url": "https://picsum.photos/210/220"},{"url": "https://picsum.photos/380/310"}],
+"video": "",
+"avatar": "https://picsum.photos/30"
+,"virtualtype": "feed-box"
+},
+{
+"id": 42, 
+"username": "JakeGyllenhaal", 
+"date": "2023-08-05T20:25:44.789Z", 
+"text": "Her gün bir adım daha ileri gidin. Yavaş ilerleme bile ilerlemedir.",
+"image": [],
+"video": "",
+"avatar": "https://picsum.photos/31"
+,"virtualtype": "feed-box"
+},
+{
+"id": 43, 
+"username": "SandraBullock", 
+"date": "2023-08-06T09:40:12.356Z", 
+"text": "Daima nezaket gösterin. İyi davranışlar, güçlü ilişkiler kurmanın anahtarıdır.",
+"image": [],
+"video": "",
+"avatar": "https://picsum.photos/32"
+,"virtualtype": "feed-box"
+},
+{
+"id": 44, 
+"username": "ChrisHemsworth", 
+"date": "2023-08-07T16:55:30.123Z", 
+"text": "Fiziksel sağlığınıza dikkat edin. Sağlıklı bir beden, sağlıklı bir zihinle birleşir.",
+"image": [],
+"video": "",
+"avatar": "https://picsum.photos/33"
+,"virtualtype": "feed-box"
+},
+{
+"id": 45, 
+"username": "Zendaya", 
+"date": "2023-08-08T22:30:18.987Z", 
+"text": "Her gün yeni bir şey deneyin. Yeni deneyimler, yaşamınızı zenginleştirir.",
+"image": [],
+"video": "",
+"avatar": "https://picsum.photos/34"
+,"virtualtype": "feed-box"
+},
+{
+"id": 46, 
+"username": "TomHolland", 
+"date": "2023-08-09T11:15:47.654Z", 
+"text": "Başkalarına yardım eli uzatın. İyilik, dünyayı daha iyi bir yer haline getirir.",
+"image": [],
+"video": "",
+"avatar": "https://picsum.photos/35"
+,"virtualtype": "feed-box"
+},
+{
+"id": 47, 
+"username": "NataliePortman", 
+"date": "2023-08-10T04:20:55.987Z", 
+"text": "Kendinizi geliştirin. Her gün bir şeyler öğrenmek, kişisel büyüme sağlar.",
+"image": [],
+"video": "",
+"avatar": "https://picsum.photos/36"
+,"virtualtype": "feed-box"
+},
+{
+"id": 48, 
+"username": "ChrisPratt", 
+"date": "2023-08-11T14:45:33.222Z", 
+"text": "Doğa ile bağlantı kurun. Doğa, ruhunuzu yeniler ve enerji verir.",
+"image": [],
+"video": "",
+"avatar": "https://picsum.photos/37"
+,"virtualtype": "feed-box"
+},
+{
+"id": 49, 
+"username": "EmmaStone", 
+"date": "2023-08-12T20:05:41.555Z", 
+"text": "Başkalarına yardım edin. İyilik yapmak, toplumunuzu güzelleştirir.",
+"image": [],
+"video": "",
+"avatar": "https://picsum.photos/38"
+,"virtualtype": "feed-box"
+},
+{
+"id": 50, 
+"username": "BradleyCooper", 
+"date": "2023-08-13T09:55:18.789Z", 
+"text": "Kendi içsel huzurunuzu bulun. İçsel huzur, dışsal koşullara bağlı değildir.",
+"image": [],
+"video": "",
+"avatar": "https://picsum.photos/39"
+,"virtualtype": "feed-box"
+}
+]
