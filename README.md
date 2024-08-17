@@ -61,7 +61,7 @@ CetinJS supports multiple platforms to ensure your applications run smoothly acr
 <!--![CetinJS Screenshot](https://github.com/xertxetin/CetinJS/raw/screenshot.png)
 https://github.com/xertxetin/CetinJS/assets/122017752/2fc4560c-be92-4963-b712-958f3ae2e76f-->
 
-### Broad Compatibility and Flexibility
+## Broad Compatibility and Flexibility
 
 [![CetinJS Promotional Video](https://img.youtube.com/vi/Ozxpw0NfNSo/maxresdefault.jpg)](https://www.youtube.com/watch?v=Ozxpw0NfNSo)
 
