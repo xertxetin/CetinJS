@@ -37,6 +37,7 @@ CetinJS is a minimalist framework developed entirely with vanilla JavaScript. It
 - [Reporting Issues](#reporting-issues)
 - [Contact](#contact)
 - [Support Us](#support-us)
+- [Source Code Status and Development](#Source-Code-Status-and-Development)
 
 ## Features
 - **Minimalist Design:** CetinJS is designed with performance and reliability in mind. Every new command is thoroughly tested and approved before being added to the framework.
@@ -158,6 +159,16 @@ If you find CetinJS useful and would like to support its development, consider b
 ### About the Creator
 
 CetinJS is the brainchild of [Mert Çetin](https://www.meforcetechnology.com/mert-cetin), the sole creator and developer behind this project. Mert has dedicated countless hours to building and refining CetinJS to provide a powerful and efficient framework for developers. Your support goes a long way in helping Mert continue his work on this and other innovative projects.
+
+## Source Code Status and Development
+
+The core components of the CetinJS framework are currently closed-source and encrypted. This means that the fundamental structure and internal workings of the framework are not shared with users. As a result, the core code of CetinJS will not be accessible or modifiable in an open manner.
+
+However, CetinJS provides developers with the ability to create and develop projects. Users can leverage CetinJS to build high-performance and compatible applications for various projects.
+
+Development is ongoing, and updates and improvements to the framework's features will be provided in the future. We will continue to offer the necessary support and information to ensure that users can effectively utilize the framework and achieve the best experience.
+
+**Note:** CetinJS is currently inactive.
 
 <p align="center">
 <a href="https://www.buymeacoffee.com/xertxetin" style="text-decoration:none;"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=xertxetin&button_colour=BD5FFF&font_colour=ffffff&font_family=Comic&outline_colour=000000&coffee_colour=FFDD00" /></a>
