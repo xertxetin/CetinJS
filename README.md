@@ -58,8 +58,20 @@ CetinJS supports multiple platforms to ensure your applications run smoothly acr
 - [ ] **Webview iOS:** With support for iOS WebView, CetinJS allows developers to build hybrid iOS applications using the same codebase as their web applications.
 - [ ] **Webview Electron:** CetinJS can be used to create cross-platform desktop applications with Electron, providing a native-like experience using web technologies.
 
-<!--![CetinJS Screenshot](https://github.com/xertxetin/CetinJS/raw/screenshot.png)-->
-https://github.com/xertxetin/CetinJS/assets/122017752/2fc4560c-be92-4963-b712-958f3ae2e76f
+<!--![CetinJS Screenshot](https://github.com/xertxetin/CetinJS/raw/screenshot.png)
+https://github.com/xertxetin/CetinJS/assets/122017752/2fc4560c-be92-4963-b712-958f3ae2e76f-->
+
+### Works Everywhere
+
+[![CetinJS Promotional Video](https://img.youtube.com/vi/Ozxpw0NfNSo/maxresdefault.jpg)](https://www.youtube.com/watch?v=Ozxpw0NfNSo)
+
+CetinJS offers broad compatibility features, providing a seamless experience across different environments:
+
+- **Apache Server**: CetinJS integrates perfectly with Apache web servers, making it ideal for large-scale deployment and hosting solutions.
+- **Node.js Express**: CetinJS performs efficiently within Node.js Express applications, enabling the development of dynamic and scalable web applications.
+- **Local File Protocol Support**: CetinJS can run HTML files directly on local devices, offering significant flexibility during development and local testing.
+- **Browser and HTML Compatibility**: CetinJS is compatible with HTML, allowing it to function across various browsers without additional configuration. This ensures that your application can reach a broad audience and provide a consistent user experience across all platforms.
+
 
 ## Installation
 To start using CetinJS, you can install it via git:
