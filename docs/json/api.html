@@ -1,205 +1,209 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Enhanced JSON API</title>
-    <style>
-        pre {
-            white-space: pre-wrap;
-            word-wrap: break-word;
-        }
-    </style>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Enhanced JSON API</title>
+<style>
+pre {
+white-space: pre-wrap;
+word-wrap: break-word;
+}
+</style>
 </head>
 <body>
-    <pre id="result"></pre>
-    <script>
+<pre id="result"></pre>
+<script id="json-data" type="application/json"></script>
+<script>
 
 function generateData(numItems) {
-    const data = [];
+const data = [];
 
-     // İngilizce metinler
-     const textOptions = [
-        "Beauty is within. The little things in life are often the most beautiful.",
-        "Being positive can turn your life into something positive.",
-        "Enjoy the simple things, as they often hold great meaning.",
-        "Success is not the key to happiness. Happiness is the key to success.",
-        "The only way to do great work is to love what you do.",
-        "In the end, it's not the years in your life that count. It's the life in your years.",
-        "The best way to predict the future is to create it.",
-        "Life is 10% what happens to us and 90% how we react to it.",
-        "Believe you can and you're halfway there.",
-        "Happiness is not something ready made. It comes from your own actions.",
-        "The only limit to our realization of tomorrow is our doubts of today.",
-        "You miss 100% of the shots you don’t take.",
-        "In three words I can sum up everything I've learned about life: it goes on.",
-        "Life is what happens when you're busy making other plans.",
-        "The purpose of our lives is to be happy.",
-        "The best way to find yourself is to lose yourself in the service of others.",
-    "Happiness is not something you postpone for the future; it is something you design for the present.",
-    "In the middle of difficulty lies opportunity.",
-    "The only limit to our realization of tomorrow is our doubts of today.",
-    "Success is not measured by what you accomplish, but the opposition you have encountered.",
-    "The future belongs to those who believe in the beauty of their dreams.",
-    "Your life does not get better by chance; it gets better by change.",
-    "Act as if what you do makes a difference. It does.",
-    "You are never too old to set another goal or to dream a new dream.",
-    "The greatest glory in living lies not in never falling, but in rising every time we fall.",
-    "Life is short, and it is up to you to make it sweet.",
-    "You do not find the happy life. You make it.",
-    "The purpose of our lives is to be happy.",
-    "Dream big and dare to fail.",
-    "What lies behind us and what lies before us are tiny matters compared to what lies within us.",
-    "Life is either a daring adventure or nothing at all.",
-    "To live is the rarest thing in the world. Most people exist, that is all.",
-    "You have within you right now, everything you need to deal with whatever the world can throw at you.",
-    "Be not afraid of life. Believe that life is worth living, and your belief will help create the fact.",
-    "Life is really simple, but we insist on making it complicated.",
-    "The best time to plant a tree was 20 years ago. The second-best time is now.",
-    "It does not matter how slowly you go, as long as you do not stop.",
-    "Everything you’ve ever wanted is on the other side of fear.",
-    "The only person you are destined to become is the person you decide to be.",
-    "Believe you can and you're halfway there.",
-    "Life is what happens when you’re busy making other plans.",
-    "Happiness is not by chance, but by choice.",
-    "The more you praise and celebrate your life, the more there is in life to celebrate.",
-    "You must be the change you wish to see in the world.",
-    "Do not wait to strike till the iron is hot, but make it hot by striking.",
-    "You miss 100% of the shots you don’t take.",
-    "Success is not final, failure is not fatal: It is the courage to continue that counts.",
-    "The only way to do great work is to love what you do.",
-    "Life is either a daring adventure or nothing at all.",
-    "The secret of getting ahead is getting started.",
-    "Your time is limited, so don’t waste it living someone else’s life.",
-    "Life is 10% what happens to us and 90% how we react to it.",
-    "You are never too old to set another goal or to dream a new dream.",
-    "Don’t watch the clock; do what it does. Keep going.",
-    "The only impossible journey is the one you never begin.",
-    "Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle.",
-    "Happiness is not something ready-made. It comes from your own actions.",
-    "The greatest wealth is to live content with little.",
-    "Do not wait to strike till the iron is hot, but make it hot by striking.",
-    "The journey of a thousand miles begins with one step.",
-    "You have within you right now, everything you need to deal with whatever the world can throw at you.",
-    "Every day may not be good, but there is something good in every day.",
-    "The way to get started is to quit talking and begin doing.",
-    "Success is not how high you have climbed, but how you make a positive difference to the world.",
-    "A goal without a plan is just a wish.",
-    "Live in the sunshine, swim the sea, drink the wild air.",
-    "You don’t have to be great to start, but you have to start to be great."
-    ];
-    
-    for (let i = 0; i < numItems; i++) {
-        let item;
-        const isAlertBox = (i + 1) % 10 === 0;
-        
-        if (isAlertBox) {
-            item = {
-                id: 0,
-                icon: "",
-                title: "Virtual Scrolla",
-                titlelong: "It is the fastest and most comfortable system.",
-                button: [
-                    { id: "scroll1Change", text: "Test Alert", classname: "dark textBold" },
-                    { id: "scroll2Change", text: "Test Modal", classname: "blue textBold" }
-                ],
-                virtualtype: "alert-box"
-            };
-        } else {
-            const type = i % 3;
-            const date = new Date(Date.now() - Math.random() * 1e12).toISOString();
-            const numImages = Math.floor(Math.random() * 3) + 1; // 1 ila 3 arasında rastgele bir sayı
+// İngilizce metinler
+const textOptions = [
+"Beauty is within. The little things in life are often the most beautiful.",
+"Being positive can turn your life into something positive.",
+"Enjoy the simple things, as they often hold great meaning.",
+"Success is not the key to happiness. Happiness is the key to success.",
+"The only way to do great work is to love what you do.",
+"In the end, it's not the years in your life that count. It's the life in your years.",
+"The best way to predict the future is to create it.",
+"Life is 10% what happens to us and 90% how we react to it.",
+"Believe you can and you're halfway there.",
+"Happiness is not something ready made. It comes from your own actions.",
+"The only limit to our realization of tomorrow is our doubts of today.",
+"You miss 100% of the shots you don’t take.",
+"In three words I can sum up everything I've learned about life: it goes on.",
+"Life is what happens when you're busy making other plans.",
+"The purpose of our lives is to be happy.",
+"The best way to find yourself is to lose yourself in the service of others.",
+"Happiness is not something you postpone for the future; it is something you design for the present.",
+"In the middle of difficulty lies opportunity.",
+"The only limit to our realization of tomorrow is our doubts of today.",
+"Success is not measured by what you accomplish, but the opposition you have encountered.",
+"The future belongs to those who believe in the beauty of their dreams.",
+"Your life does not get better by chance; it gets better by change.",
+"Act as if what you do makes a difference. It does.",
+"You are never too old to set another goal or to dream a new dream.",
+"The greatest glory in living lies not in never falling, but in rising every time we fall.",
+"Life is short, and it is up to you to make it sweet.",
+"You do not find the happy life. You make it.",
+"The purpose of our lives is to be happy.",
+"Dream big and dare to fail.",
+"What lies behind us and what lies before us are tiny matters compared to what lies within us.",
+"Life is either a daring adventure or nothing at all.",
+"To live is the rarest thing in the world. Most people exist, that is all.",
+"You have within you right now, everything you need to deal with whatever the world can throw at you.",
+"Be not afraid of life. Believe that life is worth living, and your belief will help create the fact.",
+"Life is really simple, but we insist on making it complicated.",
+"The best time to plant a tree was 20 years ago. The second-best time is now.",
+"It does not matter how slowly you go, as long as you do not stop.",
+"Everything you’ve ever wanted is on the other side of fear.",
+"The only person you are destined to become is the person you decide to be.",
+"Believe you can and you're halfway there.",
+"Life is what happens when you’re busy making other plans.",
+"Happiness is not by chance, but by choice.",
+"The more you praise and celebrate your life, the more there is in life to celebrate.",
+"You must be the change you wish to see in the world.",
+"Do not wait to strike till the iron is hot, but make it hot by striking.",
+"You miss 100% of the shots you don’t take.",
+"Success is not final, failure is not fatal: It is the courage to continue that counts.",
+"The only way to do great work is to love what you do.",
+"Life is either a daring adventure or nothing at all.",
+"The secret of getting ahead is getting started.",
+"Your time is limited, so don’t waste it living someone else’s life.",
+"Life is 10% what happens to us and 90% how we react to it.",
+"You are never too old to set another goal or to dream a new dream.",
+"Don’t watch the clock; do what it does. Keep going.",
+"The only impossible journey is the one you never begin.",
+"Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle.",
+"Happiness is not something ready-made. It comes from your own actions.",
+"The greatest wealth is to live content with little.",
+"Do not wait to strike till the iron is hot, but make it hot by striking.",
+"The journey of a thousand miles begins with one step.",
+"You have within you right now, everything you need to deal with whatever the world can throw at you.",
+"Every day may not be good, but there is something good in every day.",
+"The way to get started is to quit talking and begin doing.",
+"Success is not how high you have climbed, but how you make a positive difference to the world.",
+"A goal without a plan is just a wish.",
+"Live in the sunshine, swim the sea, drink the wild air.",
+"You don’t have to be great to start, but you have to start to be great."
+];
+
+for (let i = 0; i < numItems; i++) {
+let item;
+const isAlertBox = (i + 1) % 10 === 0;
+
+if (isAlertBox) {
+item = {
+id: 0,
+icon: "",
+title: "Virtual Scrolla",
+titlelong: "It is the fastest and most comfortable system.",
+button: [
+{ id: "scroll1Change", text: "Test Alert", classname: "dark textBold" },
+{ id: "scroll2Change", text: "Test Modal", classname: "blue textBold" }
+],
+virtualtype: "alert-box"
+};
+} else {
+const type = i % 3;
+const date = new Date(Date.now() - Math.random() * 1e12).toISOString();
+const numImages = Math.floor(Math.random() * 3) + 1; // 1 ila 3 arasında rastgele bir sayı
 
 let images = [];
 for (let j = 0; j < numImages; j++) {
-    images.push({ url: `https://picsum.photos/200/300?random=${i}-${j}` });
+images.push({ url: `https://picsum.photos/200/300?random=${i}-${j}` });
 }
 
-            item = {
-                id: i + 1,
-                username: `user${i}`,
-                date: date,
-                text: textOptions[Math.floor(Math.random() * textOptions.length)],
-                image: images,
-                video: type === 2 ? "https://www.w3schools.com/tags/movie.mp4" : "",
-                avatar: `https://picsum.photos/30?random=${i}`,
-                virtualtype: "feed-box"
-            };
-        }
-        
-        data.push(item);
-    }
-    
-    return data;
+item = {
+id: i + 1,
+username: `user${i}`,
+date: date,
+text: textOptions[Math.floor(Math.random() * textOptions.length)],
+image: images,
+video: type === 2 ? "https://www.w3schools.com/tags/movie.mp4" : "",
+avatar: `https://picsum.photos/30?random=${i}`,
+virtualtype: "feed-box"
+};
 }
 
-        // Basit veri yapıları
-        const data = {
-            users: [
-                { id: 1, name: "Alice", email: "alice@example.com" },
-                { id: 2, name: "Bob", email: "bob@example.com" },
-                { id: 3, name: "Charlie", email: "charlie@example.com" },
-                { id: 4, name: "David", email: "david@example.com" },
-                { id: 5, name: "Eve", email: "eve@example.com" },
-                { id: 6, name: "Frank", email: "frank@example.com" },
-                { id: 7, name: "Grace", email: "grace@example.com" },
-                { id: 8, name: "Hannah", email: "hannah@example.com" },
-                { id: 9, name: "Ivy", email: "ivy@example.com" },
-                { id: 10, name: "Jack", email: "jack@example.com" }
-            ],
-            posts: generateData(500),
-            comments: [
-                { id: 1, postId: 1, userId: 2, text: "Great post!" },
-                { id: 2, postId: 1, userId: 3, text: "Thanks for sharing!" },
-                { id: 3, postId: 2, userId: 1, text: "Interesting read!" },
-                { id: 4, postId: 3, userId: 4, text: "Very insightful!" }
-            ],
-            likes: [
-                { id: 1, postId: 1, userId: 2 },
-                { id: 2, postId: 1, userId: 3 },
-                { id: 3, postId: 2, userId: 1 },
-                { id: 4, postId: 3, userId: 4 }
-            ]
-        };
+data.push(item);
+}
 
-        // URL hash'ten veri çekme ve gösterme fonksiyonu
-        function handleHash() {
-            const hash = window.location.hash.substring(1);
-            const params = new URLSearchParams(hash);
+return data;
+}
 
-            const id = parseInt(params.get('id'), 10);
-            const key = params.get('key');
-            const type = params.get('type'); // user, post, comment, like
-            const limit = parseInt(params.get('limit'), 10) || 10;
-            const offset = parseInt(params.get('offset'), 10) || 0;
+// Basit veri yapıları
+const data = {
+users: [
+{ id: 1, name: "Alice", email: "alice@example.com" },
+{ id: 2, name: "Bob", email: "bob@example.com" },
+{ id: 3, name: "Charlie", email: "charlie@example.com" },
+{ id: 4, name: "David", email: "david@example.com" },
+{ id: 5, name: "Eve", email: "eve@example.com" },
+{ id: 6, name: "Frank", email: "frank@example.com" },
+{ id: 7, name: "Grace", email: "grace@example.com" },
+{ id: 8, name: "Hannah", email: "hannah@example.com" },
+{ id: 9, name: "Ivy", email: "ivy@example.com" },
+{ id: 10, name: "Jack", email: "jack@example.com" }
+],
+posts: generateData(500),
+comments: [
+{ id: 1, postId: 1, userId: 2, text: "Great post!" },
+{ id: 2, postId: 1, userId: 3, text: "Thanks for sharing!" },
+{ id: 3, postId: 2, userId: 1, text: "Interesting read!" },
+{ id: 4, postId: 3, userId: 4, text: "Very insightful!" }
+],
+likes: [
+{ id: 1, postId: 1, userId: 2 },
+{ id: 2, postId: 1, userId: 3 },
+{ id: 3, postId: 2, userId: 1 },
+{ id: 4, postId: 3, userId: 4 }
+]
+};
 
-            let result = '';
-            if (type && data[type]) {
-                const items = data[type];
-                if (id) {
-                    // Belirtilen ID'ye sahip verileri al
-                    const startIndex = items.findIndex(d => d.id === id);
-                    if (startIndex !== -1) {
-                        result = JSON.stringify(items.slice(startIndex, startIndex + limit), null, 2);
-                    } else {
-                        result = 'Item not found.';
-                    }
-                } else {
-                    // Offset ve limit kullanarak veri getir
-                    result = JSON.stringify(items.slice(offset, offset + limit), null, 2);
-                }
-            } else {
-                result = 'Invalid type or no type provided.';
-            }
+// URL hash'ten veri çekme ve gösterme fonksiyonu
+function handleHash() {
+const hash = window.location.hash.substring(1);
+const params = new URLSearchParams(hash);
 
-            document.getElementById('result').innerHTML = `${result}`;
-        }
+const id = parseInt(params.get('id'), 10);
+const key = params.get('key');
+const type = params.get('type'); // user, post, comment, like
+const limit = parseInt(params.get('limit'), 10) || 10;
+const offset = parseInt(params.get('offset'), 10) || 0;
 
-        // Hash değişikliklerini dinleme
-        window.addEventListener('hashchange', handleHash);
+let result = '';
+if (type && data[type]) {
+const items = data[type];
+if (id) {
+// Belirtilen ID'ye sahip verileri al
+const startIndex = items.findIndex(d => d.id === id);
+if (startIndex !== -1) {
+result = JSON.stringify(items.slice(startIndex, startIndex + limit), null, 2);
+} else {
+result = 'Item not found.';
+}
+} else {
+// Offset ve limit kullanarak veri getir
+result = JSON.stringify(items.slice(offset, offset + limit), null, 2);
+}
+} else {
+result = 'Invalid type or no type provided.';
+}
 
-        // Sayfa yüklendiğinde hash'yi kontrol et
-        window.addEventListener('load', handleHash);
-    </script>
+// JSON verilerini script etiketi içerisine yazma
+document.getElementById('json-data').textContent = result;
+
+document.getElementById('result').innerHTML = `${result}`;
+}
+
+// Hash değişikliklerini dinleme
+window.addEventListener('hashchange', handleHash);
+
+// Sayfa yüklendiğinde hash'yi kontrol et
+window.addEventListener('load', handleHash);
+</script>
 </body>
 </html>
