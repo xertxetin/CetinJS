@@ -138,11 +138,11 @@ We have exciting plans for the future of CetinJS. Here are some of the features 
 
 # Contributing
 
-CetinJS is an open-source project and we welcome contributions. If you'd like to contribute, please check out our [contribution guidelines](CONTRIBUTING.md).
+CetinJS Blank Starter is an open-source project and we welcome contributions. If you'd like to contribute, please check out our [contribution guidelines](CONTRIBUTING.md).
 
 # License
 
-This project is licensed under the MIT. See the [LICENSE](LICENSE.md) file for details.
+This project (CetinJS Blank Starter) is licensed under the MIT. See the [LICENSE](LICENSE.md) file for details.
 
 # Reporting Issues
 
