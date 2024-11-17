@@ -25,6 +25,31 @@
 
 CetinJS is a minimalist framework developed entirely with vanilla JavaScript. It contains no unnecessary commands, only efficient and essential ones. By maximizing performance and reliability, it allows users to develop faster and more efficient applications.
 
+# Progressive Web Apps - Standalone  
+
+## Purpose  
+CetinJS is a library built with **vanilla JavaScript**, without any unnecessary modules or third-party libraries. It leverages the Progressive Web Apps (PWA) approach to create web applications that work just like native apps on all platforms (iOS, Android, Desktop, etc.), directly through the browser. With **Standalone** capabilities, these applications deliver a seamless user experience comparable to traditional native apps, all while maintaining simplicity and speed.  
+
+## Goals  
+- **Cross-Platform Support:** Develop applications with a single codebase that deliver a consistent user experience on any device (as long as it has a browser).  
+- **Native-Like Performance:** PWAs built with CetinJS are designed to be indistinguishable from native apps in functionality and performance.  
+- **Simplified Development:** Minimize time and cost with an efficient, straightforward development process.  
+- **Freedom from App Stores:** Eliminate the need to publish on app stores, avoiding their rigid rules and fees.  
+- **Unified Solution:** No more developing separate apps for iOS, Android, and other platforms. CetinJS enables you to build a single application that runs everywhere.  
+- **Hassle-Free Distribution:** Skip the creation of APK, AAB, API, EXE, or other installation files. Applications are accessible directly via the browser.  
+- **Custom Payment Systems:** Avoid mandatory and high-commission payment systems imposed by app stores. CetinJS allows you to integrate your own bank or payment infrastructure, offering total control over payment processes.  
+- **Future-Proof Technology:** Transform application development and distribution by adopting this next-generation framework.  
+
+## Advantages  
+- **Seamless Deployment:** Applications run on any device with an internet connection and a browser.  
+- **Cost and Time Efficiency:** Develop once, deploy everywhere, and save resources.  
+- **Store Independence:** No need to rely on app stores or comply with their strict guidelines.  
+- **No Unnecessary Dependencies:** CetinJS is lightweight, built entirely with vanilla JavaScript, and contains no redundant modules or libraries.  
+- **Custom Payment Flexibility:** Use your own payment methods without depending on store-enforced systems or fees.  
+
+## Why CetinJS?  
+CetinJS introduces a revolutionary PWA development framework, offering unmatched simplicity and flexibility. Unlike other libraries, it is powered entirely by vanilla JavaScript, making it fast, lightweight, and free from unnecessary bloat. Build applications that run on iOS, Android, and desktop platforms under a single codebase, without app stores or distribution files. CetinJS empowers developers to take full control of their applications while providing an efficient, modern alternative to traditional native app development.
+
 ## Table of Contents
 - [Features](#features)
 - [Platform](#platform)
