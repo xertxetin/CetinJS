@@ -30,7 +30,7 @@ CetinJS is a minimalist framework developed entirely with vanilla JavaScript. It
 ## Purpose  
 CetinJS is a library built with **vanilla JavaScript**, without any unnecessary modules or third-party libraries. It leverages the Progressive Web Apps (PWA) approach to create web applications that work just like native apps on all platforms (iOS, Android, Desktop, etc.), directly through the browser. With **Standalone** capabilities, these applications deliver a seamless user experience comparable to traditional native apps, all while maintaining simplicity and speed.  
 
-[![CetinJS Devlok](https://raw.githubusercontent.com/xertxetin/CetinJS/refs/heads/main/docs/media/devlog1.jpg)](https://www.youtube.com/watch?v=OjKgM-1ps0Q)
+[![CetinJS Devlok](https://raw.githubusercontent.com/xertxetin/CetinJS/refs/heads/main/docs/media/devlog#1.jpg)](https://www.youtube.com/watch?v=OjKgM-1ps0Q)
 
 ## Goals  
 - **Cross-Platform Support:** Develop applications with a single codebase that deliver a consistent user experience on any device (as long as it has a browser).  
