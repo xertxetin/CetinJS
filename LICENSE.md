@@ -13,27 +13,26 @@ The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
 
 ## Additional Terms
+The core components of the CetinJS framework are currently closed-source and encrypted. This means that the fundamental structure and internal workings of the framework are not shared with users. As a result, the core code of CetinJS will not be accessible or modifiable in an open manner.
 
-In addition to the terms of the MIT License, the following additional terms apply:
+However, CetinJS provides developers with the ability to create and develop projects. Users can leverage CetinJS to build high-performance and compatible applications for various projects.
 
-1. **No Renaming and Redistribution:**
-- You may not redistribute the software under a different name.
-- Creating derivative works that use this project’s codebase and redistributing them under a different name is prohibited.
+You can create applications using the Core software and publish and distribute these applications under your brand name. Simply providing attribution to CetinJS is sufficient. Since the Core software is encrypted (because the project's direction is not yet clear, there are no commercial activities, and future plans are still uncertain), it is prohibited to crack or modify it, and attempting to redistribute it is also forbidden.
 
-2. **Attribution:**
-- You must provide proper attribution to the original project. This includes:
-- Clearly displaying the original project name "CetinJS" in any distributions.
-- Including a link to the original project repository in any distributions.
+## Main Core (CetinJS) was valid for the software.
 
-3. **No Endorsement:**
-- You may not use the name "CetinJS" or any contributors' names to endorse or promote products derived from this software without specific prior written permission.
+CC BY-NC-ND 4.0 License
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Copyright (c) 2014 Me Force For Mert Çetin.
+
+Permission is hereby granted to copy and redistribute the material in any medium or format, with proper attribution, for non-commercial purposes only, under the following conditions:
+
+1. **Attribution**: You must give appropriate credit to the original author(s) (Mert Çetin and Me Force Technology), provide a link to the original project, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor(s) endorses you or your use.
+
+2. **Non-Commercial Use**: You may not use the material for commercial purposes. Commercial use includes any use primarily intended for commercial advantage or monetary compensation.
+
+3. **No Derivative Works**: You may not remix, transform, or build upon the material. If you redistribute the material, you must do so in its original form, without any modifications.
+
+The software is provided "as is", without any warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and non-infringement. In no event shall the authors or copyright holders be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the software or the use or other dealings in the software.
 
 For more information, please contact [info@meforcetechnology.com](mailto:info@meforcetechnology.com).
