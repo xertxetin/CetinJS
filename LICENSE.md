@@ -19,7 +19,7 @@ However, CetinJS provides developers with the ability to create and develop proj
 
 You can create applications using the Core software and publish and distribute these applications under your brand name. Simply providing attribution to CetinJS is sufficient. Since the Core software is encrypted (because the project's direction is not yet clear, there are no commercial activities, and future plans are still uncertain), it is prohibited to crack or modify it, and attempting to redistribute it is also forbidden.
 
-## Main Core (CetinJS) was valid for the software.
+## Valid for Main Core (CetinJS) Software.
 
 CC BY-NC-ND 4.0 License
 
