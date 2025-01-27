@@ -197,11 +197,6 @@ Development is ongoing, and updates and improvements to the framework's features
 
 **Note:** CetinJS is currently inactive.
 
-<div align="center">
-[![Sponsor Me](https://img.shields.io/badge/Sponsor-Support%20Me-blueviolet?style=for-the-badge&logo=github)](https://github.com/sponsors/xertxetin)
-</div>
+---
 
-<div align="center">
-<a href="https://www.buymeacoffee.com/xertxetin" style="text-decoration:none;"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=xertxetin&button_colour=BD5FFF&font_colour=ffffff&font_family=Comic&outline_colour=000000&coffee_colour=FFDD00" /></a>
-</div>
-
+[![Sponsor Me](https://img.shields.io/badge/Support%20Me-Sponsor-blueviolet?style=for-the-badge&logo=github)](https://github.com/sponsors/xertxetin)  [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Donate-yellow?style=for-the-badge&logo=buymeacoffee)](https://www.buymeacoffee.com/xertxetin)  
