@@ -199,4 +199,12 @@ Development is ongoing, and updates and improvements to the framework's features
 
 ---
 
-[![Sponsor Me](https://img.shields.io/badge/Support%20Me-Sponsor-blueviolet?style=for-the-badge&logo=github)](https://github.com/sponsors/xertxetin)  [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Donate-yellow?style=for-the-badge&logo=buymeacoffee)](https://www.buymeacoffee.com/xertxetin)  
+<div align="center">
+  <a href="https://github.com/sponsors/xertxetin" target="_blank">
+    <img src="https://img.shields.io/badge/Support%20Me-Sponsor-blueviolet?style=for-the-badge&logo=github" alt="Sponsor Me">
+  </a>
+  
+  <a href="https://www.buymeacoffee.com/xertxetin" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Donate-yellow?style=for-the-badge&logo=buymeacoffee" alt="Buy Me a Coffee">
+  </a>
+</div>
