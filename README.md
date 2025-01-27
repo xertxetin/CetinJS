@@ -200,11 +200,11 @@ Development is ongoing, and updates and improvements to the framework's features
 ---
 
 <div align="center">
-  <a href="https://github.com/sponsors/xertxetin" target="_blank">
+  <a href="https://github.com/sponsors/xertxetin" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Support%20Me-Sponsor-blueviolet?style=for-the-badge&logo=github" alt="Sponsor Me">
   </a>
   
-  <a href="https://www.buymeacoffee.com/xertxetin" target="_blank">
+  <a href="https://www.buymeacoffee.com/xertxetin" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Donate-yellow?style=for-the-badge&logo=buymeacoffee" alt="Buy Me a Coffee">
   </a>
 </div>
