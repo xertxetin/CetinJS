@@ -2,7 +2,7 @@
 
 <!--![CetinJS Logo](https://raw.githubusercontent.com/xertxetin/CetinJS/main/docs/media/logo.png)-->
 <p align="center">
-<img src="https://raw.githubusercontent.com/xertxetin/CetinJS/main/docs/media/logo.png" alt="CetinJS Logo" width="200px">
+<img src="https://raw.githubusercontent.com/xertxetin/CetinJS/main/docs/media/logo.png" alt="CetinJS Logo" width="249px">
 </p>
 
 <p align="center">
