@@ -1,4 +1,4 @@
-# CetinJS: A Minimalist and Fast JavaScript Framework
+# CetinJS
 
 <!--![CetinJS Logo](https://raw.githubusercontent.com/xertxetin/CetinJS/main/docs/media/logo.png)-->
 <p align="center">
@@ -30,7 +30,7 @@ CetinJS is a minimalist framework developed entirely with vanilla JavaScript. It
 | 🛠️ **[Cetin Utils](https://github.com/xertxetin/cetin-utils)** | 💻 **[Cetin Studio](https://github.com/xertxetin/cetin-studio)** | 🔧 **[Cetin Core](https://github.com/xertxetin/cetin-core)** |
 | A toolset for CetinJS, simplifying project build, compression, and management for an efficient workflow. | Cetin Studio is an integrated development environment (IDE) designed for JavaScript (CetinJS). | Core files of CetinJS framework. These files power the framework's core functionalities, ensuring high performance, security, and stability. |
 
-## Progressive Web Apps - Purpose:  
+## Purpose: Progressive Web Apps   
 CetinJS is a library built with **vanilla JavaScript**, without any unnecessary modules or third-party libraries. It leverages the Progressive Web Apps (PWA) approach to create web applications that work just like native apps on all platforms (iOS, Android, Desktop, etc.), directly through the browser. With **Standalone** capabilities, these applications deliver a seamless user experience comparable to traditional native apps, all while maintaining simplicity and speed.  
 
 [![CetinJS Devlok](https://raw.githubusercontent.com/xertxetin/CetinJS/refs/heads/main/docs/media/DEVLOGYoutube%231.jpg)](https://www.youtube.com/watch?v=OjKgM-1ps0Q)
