@@ -2,7 +2,7 @@
 
 <!--![CetinJS Logo](https://raw.githubusercontent.com/xertxetin/CetinJS/main/docs/media/logo.png)-->
 <p align="center">
-<img src="https://raw.githubusercontent.com/xertxetin/CetinJS/main/docs/media/logo.png" alt="CetinJS Logo" width="249px">
+<img src="https://raw.githubusercontent.com/xertxetin/CetinJS/main/docs/media/logo.png" alt="CetinJS Logo" width="200px">
 </p>
 
 <p align="center">
@@ -25,7 +25,7 @@
 
 CetinJS is a minimalist framework developed entirely with vanilla JavaScript. It contains no unnecessary commands, only efficient and essential ones. By maximizing performance and reliability, it allows users to develop faster and more efficient applications.
 
-| ![Cetin Utils](https://raw.githubusercontent.com/xertxetin/CetinJS/refs/heads/main/docs/media/cetin-utils-logo.png) | ![Cetin Studio](https://raw.githubusercontent.com/xertxetin/CetinJS/refs/heads/main/docs/media/cetin-studio-logo.png) | ![Cetin Core](https://raw.githubusercontent.com/xertxetin/CetinJS/refs/heads/main/docs/media/cetin-core-logo.png) |
+| <a href="https://github.com/xertxetin/cetin-utils"><img src="https://raw.githubusercontent.com/xertxetin/CetinJS/refs/heads/main/docs/media/cetin-utils-logo.png" width="200px"></a> | <a href="https://github.com/xertxetin/cetin-studio"><img src="https://raw.githubusercontent.com/xertxetin/CetinJS/refs/heads/main/docs/media/cetin-studio-logo.png" width="200px"></a> | <a href="https://github.com/xertxetin/cetin-core"><img src="https://raw.githubusercontent.com/xertxetin/CetinJS/refs/heads/main/docs/media/cetin-core-logo.png" width="200px"></a> |
 |:--:|:--:|:--:|
 | 🛠️ **[Cetin Utils](https://github.com/xertxetin/cetin-utils)** | 💻 **[Cetin Studio](https://github.com/xertxetin/cetin-studio)** | 🔧 **[Cetin Core](https://github.com/xertxetin/cetin-core)** |
 | A toolset for CetinJS, simplifying project build, compression, and management for an efficient workflow. | An integrated development environment (IDE) tailored for JavaScript (CetinJS). | Core files powering CetinJS with performance, security, and stability. Handle with care to maintain integrity. |
